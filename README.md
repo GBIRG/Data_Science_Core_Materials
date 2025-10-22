@@ -7,9 +7,9 @@ This repository is maintained by [ABRF GBIRG](https://abrf.org/research-groups/g
 ```text
 Data_Science_Core_Materials/ 
 │ 
-├── Scientific_Projects       # SOPs, governance, onboarding guides 
-├── Staff_Managment           # Pipeline templates (Snakemake, Nextflow, CWL) 
-├── Faculty_Interactions      # Utility scripts (Python, R) 
-├── Researcher_Training       # Tutorials, workshops, and educational resources 
-└── Guidelines                # Contribution guidelines, governance model
+├── Scientific_Projects       # Analysis Templates, Workflow Scripts, Analysis and Visualization Code 
+├── Staff_Managment           # Job Postings, Position Descriptions, Onboarding, Performance Reviews, Retention, Supervision
+├── Faculty_Interactions      # New Services, Grant Application Text, Letters of Support
+├── Researcher_Training       # Workshop Materials and Documentation 
+└── Guidelines                # Contribution Instructions
 ```
