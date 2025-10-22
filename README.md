@@ -7,7 +7,7 @@ This repository is maintained by [ABRF GBIRG](https://abrf.org/research-groups/g
 ```text
 Data_Science_Core_Materials/ 
 │ 
-├── Scientific_Projects       # Analysis Templates, Workflow Scripts, Analysis and Visualization Code 
+├── Scientific_Projects       # Analysis Templates, Dockerfiles, Workflow Scripts, Analysis and Visualization Code 
 ├── Staff_Managment           # Job Postings, Position Descriptions, Onboarding, Performance Reviews, Retention, Supervision
 ├── Faculty_Interactions      # New Services, Grant Application Text, Letters of Support
 ├── Researcher_Training       # Workshop Materials and Documentation 
